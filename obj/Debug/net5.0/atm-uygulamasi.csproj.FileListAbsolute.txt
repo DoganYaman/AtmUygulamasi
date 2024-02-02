@@ -1,0 +1,15 @@
+D:\PatikaDev\Patika_Odev\atm-uygulamasi\bin\Debug\net5.0\atm-uygulamasi.exe
+D:\PatikaDev\Patika_Odev\atm-uygulamasi\bin\Debug\net5.0\atm-uygulamasi.deps.json
+D:\PatikaDev\Patika_Odev\atm-uygulamasi\bin\Debug\net5.0\atm-uygulamasi.runtimeconfig.json
+D:\PatikaDev\Patika_Odev\atm-uygulamasi\bin\Debug\net5.0\atm-uygulamasi.runtimeconfig.dev.json
+D:\PatikaDev\Patika_Odev\atm-uygulamasi\bin\Debug\net5.0\atm-uygulamasi.dll
+D:\PatikaDev\Patika_Odev\atm-uygulamasi\bin\Debug\net5.0\atm-uygulamasi.pdb
+D:\PatikaDev\Patika_Odev\atm-uygulamasi\obj\Debug\net5.0\atm-uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_Odev\atm-uygulamasi\obj\Debug\net5.0\atm-uygulamasi.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_Odev\atm-uygulamasi\obj\Debug\net5.0\atm-uygulamasi.AssemblyInfo.cs
+D:\PatikaDev\Patika_Odev\atm-uygulamasi\obj\Debug\net5.0\atm-uygulamasi.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_Odev\atm-uygulamasi\obj\Debug\net5.0\atm-uygulamasi.dll
+D:\PatikaDev\Patika_Odev\atm-uygulamasi\obj\Debug\net5.0\refint\atm-uygulamasi.dll
+D:\PatikaDev\Patika_Odev\atm-uygulamasi\obj\Debug\net5.0\atm-uygulamasi.pdb
+D:\PatikaDev\Patika_Odev\atm-uygulamasi\obj\Debug\net5.0\atm-uygulamasi.genruntimeconfig.cache
+D:\PatikaDev\Patika_Odev\atm-uygulamasi\obj\Debug\net5.0\ref\atm-uygulamasi.dll

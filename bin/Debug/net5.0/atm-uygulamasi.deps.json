@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "atm-uygulamasi/1.0.0": {
+        "runtime": {
+          "atm-uygulamasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "atm-uygulamasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
